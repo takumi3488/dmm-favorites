@@ -1,0 +1,18 @@
+{
+  "name": "dmm-favorites",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:takumi3488/dmm-favorites.git",
+  "author": "Takumi Mori <51111242+tak3488@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node index.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "playwright": "^1.17.1"
+  }
+}
